@@ -1,0 +1,99 @@
+.top {
+    background-color: #52616b;
+    text-align: center;
+    padding-top: 5%;
+    color : #f0f5f9;
+}
+.middle {
+ background-color: #c9d6df;
+ padding : 100px 0;
+}
+.bottom {
+    background: #52616b;
+    color :#f0f5f9;
+    padding : 50px 0 20px;
+}
+h1 {
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color : #f55c47;
+}
+
+body {
+    margin: 0;
+    text-align : center;
+    font-family: 'Josefin Slab', serif;
+}
+.birdy {
+    position: absolute;
+    left:39%;
+    top : 55%;
+}
+.cloudy {
+    position: relative;
+    left : 15%;
+}
+.sp2 {font-family: 'Josefin Slab', serif;  font-size: 2.5rem;}
+
+h2 {font-family: 'Roboto Condensed', sans-serif; font-size: 2.5rem; color : #f55c47; font-weight: normal; padding-bottom: 10px;}
+
+h3 {font-family: 'Roboto Condensed', sans-serif; color : #ff7b54}
+
+img.mount {margin-bottom:0;}
+
+.skills-row { 
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.IM1 {float : left; margin-right: 1.875rem;}
+.IM2 {float : right; margin-left: 1.875rem;}
+
+hr {
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 4px;
+    width : 4%;
+    margin:100px auto; 
+     }
+
+.btn {
+background: #ce1212;
+background-image: -webkit-linear-gradient(top, #ce1212, #810000);
+background-image: -moz-linear-gradient(top, #ce1212, #810000);
+background-image: -ms-linear-gradient(top, #ce1212, #810000);
+background-image: -o-linear-gradient(top, #ce1212, #810000);
+background-image: linear-gradient(to bottom, #ce1212, #810000);
+-webkit-border-radius: 12;
+-moz-border-radius: 12;
+border-radius: 12px;
+font-family: 'Roboto Condensed', sans-serif;
+color: #ffffff;
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+}
+
+.btn:hover {
+background: #f55c47;
+background-image: -webkit-linear-gradient(top, #f55c47, #ff7b54);
+background-image: -moz-linear-gradient(top, #f55c47, #ff7b54);
+background-image: -ms-linear-gradient(top, #f55c47, #ff7b54);
+background-image: -o-linear-gradient(top, #f55c47, #ff7b54);
+background-image: linear-gradient(to bottom, #f55c47, #ff7b54);
+text-decoration: none;
+}
+.DAIICT {color: blue; text-decoration: none;}
+a.DAIICT:hover {color : #f55c47;}
+.intro {width : 30%; margin : 0 auto 0 auto; line-height : 2;}
+
+p {line-height: 2;font-size: 110%;}
+p.msg {width : 30%; margin : 40px auto 60px;}
+
+a.footer-link {color : #f8f4e1; font-family:'Josefin Slab', serif; margin : 10px 20px; text-decoration: none;}
+a.footer-link:hover {color : #f55c47;}
+a.credit {color : #f8f4e1; text-decoration: none;}
+a.credit:hover {color : #f55c47;}

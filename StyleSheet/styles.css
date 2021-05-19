@@ -26,9 +26,10 @@ body {
     font-family: 'Josefin Slab', serif;
 }
 .birdy {
-    position: absolute;
-    left:39%;
-    top : 55%;
+    position: relative;
+    margin : 0 auto 40% auto;
+    position: relative;
+    left : 10%;
 }
 .cloudy {
     position: relative;
